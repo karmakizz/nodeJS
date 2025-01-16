@@ -1,0 +1,23 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "A sample project demonstrating the functionality of Node and npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karmakizz/nodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karmakizz/nodeJS/issues"
+  },
+  "homepage": "https://github.com/karmakizz/nodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
